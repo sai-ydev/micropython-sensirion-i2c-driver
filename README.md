@@ -1,14 +1,13 @@
-# Python Driver for I2C Devices
+# MicroPython Driver for I2C Devices
 
 This repository contains the common I2C driver used by various Sensirion
 sensor drivers. For details, please read the package description in
 [README.rst](README.rst).
 
 
-## Usage
+## Usage - This is a FORK
 
-See package description in [README.rst](README.rst) and user manual at
-https://sensirion.github.io/python-i2c-driver/.
+This is a fork of the Sensirion driver.
 
 ## Development
 
